@@ -1,0 +1,11 @@
+{
+  "manifest_sha1": "67aeff0bf6f6ae3d004dfddc620885b2896df57d",
+  "total_tasks": 11480,
+  "next_index": 11480,
+  "completed": 11480,
+  "shard_index": 1,
+  "written_files": [
+    "E:\\DEEPEYE\\NPJ\\code\\v2\\outputs\\annotations-00000.jsonl",
+    "E:\\DEEPEYE\\NPJ\\code\\v2\\outputs\\annotations-00001.jsonl"
+  ]
+}
